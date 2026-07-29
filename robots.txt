@@ -1,0 +1,7 @@
+Plain text
+
+User-agent: *
+Allow: /
+
+Sitemap:
+https://insafdave.github.io/portfolio/sitemap.xml
